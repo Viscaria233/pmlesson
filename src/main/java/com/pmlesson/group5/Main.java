@@ -3,9 +3,6 @@ package com.pmlesson.group5;
 import com.pmlesson.group5.knight.KnightBackTraceLauncher;
 import com.pmlesson.group5.prime.PrimeBackTraceLauncher;
 
-import java.util.PrimitiveIterator;
-import java.util.stream.IntStream;
-
 /**
  * Created by Haochen on 2017/4/11.
  * TODO:
