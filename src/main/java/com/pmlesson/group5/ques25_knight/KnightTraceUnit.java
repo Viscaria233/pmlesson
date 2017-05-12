@@ -1,4 +1,4 @@
-package com.pmlesson.group5.knight;
+package com.pmlesson.group5.ques25_knight;
 
 import com.backtraceframework.api.TraceUnit;
 

@@ -1,4 +1,4 @@
-package com.pmlesson.group5.prime;
+package com.pmlesson.group5.ques05_prime;
 
 import com.backtraceframework.api.TraceUnit;
 
